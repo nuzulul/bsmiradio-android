@@ -112,3 +112,5 @@ plugins
 *.apk
 
 data
+
+*.aab

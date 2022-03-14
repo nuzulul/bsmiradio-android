@@ -2,10 +2,10 @@
 <widget id="app.netlify.bsmiradio" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>BSMIRADIO</name>
     <description>
-        BSMI RADIO WALKIE TALKIE
+        BSMIRADIO WALKIE TALKIE KLASIK
     </description>
-    <author email="narojilstudio@gmail.com" href="https://narojil.pages.dev">
-        NAROJIL PRODUCTION
+    <author email="narojilstudio@gmail.com" href="https://nuzulul.github.io">
+        NUZULUL ZULKARNAIN HAQ
     </author>
     <content src="index.html" />
     <access origin="*" />
@@ -46,7 +46,7 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <preference name="android-minSdkVersion" value="22" />
-    <preference name="android-targetSdkVersion" value="29" />
+    <preference name="android-targetSdkVersion" value="30" />
     <preference name="AndroidLaunchMode" value="singleTask" />
     <preference name="AndroidXEnabled" value="true" />
     <plugin name="cordova-plugin-file" spec="^6.0.2" />
