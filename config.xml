@@ -45,8 +45,8 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <preference name="android-minSdkVersion" value="22" />
-    <preference name="android-targetSdkVersion" value="30" />
+    <preference name="android-minSdkVersion" value="24" />
+    <preference name="android-targetSdkVersion" value="33" />
     <preference name="AndroidLaunchMode" value="singleTask" />
     <preference name="AndroidXEnabled" value="true" />
     <plugin name="cordova-plugin-file" spec="^6.0.2" />
